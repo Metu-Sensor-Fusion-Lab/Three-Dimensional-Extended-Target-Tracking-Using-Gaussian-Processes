@@ -4,3 +4,6 @@ This repository presents an example implementation of the algorithms proposed in
 DOI: 10.1109/TAES.2021.3067668
 URL: https://ieeexplore.ieee.org/abstract/document/9382878
 
+GPETT:  GP-based extended target tracker (proposed in Section V of the mentioned paper)
+GPETTP: GP-based extended target tracker using projections (proposed in Section VII of the mentioned paper)
+
